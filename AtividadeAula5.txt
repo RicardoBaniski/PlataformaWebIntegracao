@@ -1,2 +1,4 @@
 Plataforma WEB Integração
 Atividade Aula 5
+
+Utilizando o $ git commit --amend
